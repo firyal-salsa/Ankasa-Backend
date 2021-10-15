@@ -6,7 +6,7 @@
   
 <p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634282728/arkademy_ufgxux.png" width="200px" alt="Arkademylogo.svg" /></p>
 
-<p>Ankasa is booking ticket plane web application. The backend has a jwt (json web token) to secure accounts from other users, a bcrypt package to protect passwords, and other dependencies to complete the needs of the blanja application. To find out information about Ankasa please see below</p>
+<p>Ankasa is booking ticket plane web application. The backend has a jwt (json web token) to secure accounts from other users, a bcrypt package to protect passwords, and other dependencies to complete the needs of the Ankasa application. To find out information about Ankasa please see below</p>
 
 ## Build
 
