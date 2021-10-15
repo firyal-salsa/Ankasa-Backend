@@ -3,6 +3,8 @@
 <p align="center">
     <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631588597/Ankasa/Logo_Ankasa_cm4gp9.svg"  alt="LogoAnkasa">
   </a>
+  
+<p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634282728/arkademy_ufgxux.png" width="200px" alt="Arkademylogo.svg" /></p>
 
   <p align="center">
     <br />
