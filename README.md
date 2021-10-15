@@ -17,7 +17,7 @@
 ## Build
 
 <div class="d-flex">
-  <p>EXPRESS</p>
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634289445/tech%20stack/express_xmzka6.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225494/tech%20stack/postgresql_r813wd.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225451/tech%20stack/redis_agonqb.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225449/tech%20stack/nginx_sapsks.svg" width="50px" height="50px">
