@@ -6,12 +6,6 @@
   
 <p align="center"><img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634282728/arkademy_ufgxux.png" width="200px" alt="Arkademylogo.svg" /></p>
 
-  <p align="center">
-    <br />
-    <a href="http://www.ankasa.online/">View Demo</a>
-  </p>
-</p>
-
 <p>Ankasa is booking ticket plane web application. The backend has a jwt (json web token) to secure accounts from other users, a bcrypt package to protect passwords, and other dependencies to complete the needs of the blanja application. To find out information about Ankasa please see below</p>
 
 ## Build
@@ -25,6 +19,9 @@
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225443/tech%20stack/docker-icon_hamwmv.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225440/tech%20stack/jenkins_xhlzk0.svg" width="50px" height="50px">
 </div>
+
+## View Demo
+<a href="http://www.ankasa.online/">http://www.ankasa.online/</a>
 
 ## Link API
 https://documenter.getpostman.com/view/17931318/UV5Ukz8x
