@@ -1,28 +1,38 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/calvinrahmat/blanja.git">
     <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631588597/Ankasa/Logo_Ankasa_cm4gp9.svg"  alt="LogoAnkasa">
   </a>
 
   <p align="center">
     <br />
-    <a href="https://github.com/calvinrahmat/back-ticketing.git"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="http://www.ankasa.online/">View Demo</a>
   </p>
 </p>
 
-## Back to Frontend
+<p>Ankasa is booking ticket plane web application. The backend has a jwt (json web token) to secure accounts from other users, a bcrypt package to protect passwords, and other dependencies to complete the needs of the blanja application. To find out information about Ankasa please see below</p>
 
-<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/Gustiana882/front-ticketing</a>
+## Build
+
+<div class="d-flex">
+  <p>EXPRESS</p>
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225494/tech%20stack/postgresql_r813wd.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225451/tech%20stack/redis_agonqb.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225449/tech%20stack/nginx_sapsks.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225445/tech%20stack/aws-ec2_xkv0gc.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225443/tech%20stack/docker-icon_hamwmv.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225440/tech%20stack/jenkins_xhlzk0.svg" width="50px" height="50px">
+</div>
+
+## Frontend
+
+<a href="https://github.com/firyal-salsa/front-ticketing">https://github.com/firyal-salsa/front-ticketing</a>
 
 ## Clone the repository
 
 ```bash
 
-  git clone https://github.com/Gustiana882/back-ticketing.git
+  git clone https://github.com/firyal-salsa/back-ticketing.git
   
 ```
 
