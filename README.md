@@ -22,6 +22,8 @@
 
 ## View Demo
 <a href="http://www.ankasa.online/">http://www.ankasa.online/</a>
+or
+https://ankasaapp.netlify.app/
 
 ## Link API
 https://documenter.getpostman.com/view/17931318/UV5Ukz8x
