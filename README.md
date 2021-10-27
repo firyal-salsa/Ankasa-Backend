@@ -30,13 +30,13 @@ https://documenter.getpostman.com/view/17931318/UV5Ukz8x
 
 ## Frontend
 
-<a href="https://github.com/firyal-salsa/front-ticketing">https://github.com/firyal-salsa/front-ticketing</a>
+https://github.com/firyal-salsa/Ankasa-Frontend
 
 ## Clone the repository
 
 ```bash
 
-  git clone https://github.com/firyal-salsa/back-ticketing.git
+  git clone https://github.com/firyal-salsa/Ankasa-Backend
   
 ```
 
