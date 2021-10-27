@@ -12,12 +12,14 @@
 
 <div class="d-flex">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634289445/tech%20stack/express_xmzka6.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1635367909/tech%20stack/yarn_ztjuf7.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225494/tech%20stack/postgresql_r813wd.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225451/tech%20stack/redis_agonqb.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225449/tech%20stack/nginx_sapsks.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225445/tech%20stack/aws-ec2_xkv0gc.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225443/tech%20stack/docker-icon_hamwmv.svg" width="50px" height="50px">
 <img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1634225440/tech%20stack/jenkins_xhlzk0.svg" width="50px" height="50px">
+<img src="https://res.cloudinary.com/dvehyvk3d/image/upload/v1635367893/tech%20stack/kubernetes_qyuz5v.svg" width="50px" height="50px">
 </div>
 
 ## View Demo
